@@ -1,0 +1,8 @@
+{
+  "name": "Stun iPhones Prompt Generator",
+  "description": "Generates a comprehensive AI Studio prompt for building an iPhone trading website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
